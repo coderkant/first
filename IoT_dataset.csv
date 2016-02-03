@@ -1,0 +1,30 @@
+Tell me Status of Devices,StatusAll
+Tell me status of Sensors,StatusAll
+are all sensors running,StatusAll
+are all sensors closed,StatusAll
+are all devices running,StatusAll
+are all devices closed,StatusAll
+Tell me Status of Sensor one,StatusN
+Tell me Status of sensor 2,StatusN
+How is sensor five doing,StatusN
+fetch me status of device four,StatusN
+fetch me state of device one,StatusN
+is device one running,StatusN
+what is the status of sensors,StatusAll
+what is the status of devicetype MQTTdevices,StatusAll
+Shut down device one,StopN
+stop sensor 2,StopN
+close device five,StopN
+shut down sensor three,StopN
+end all devices,Stopall
+Restart all devices,ResartAll
+Reboot all sensors,RestartAll
+Restart every device,RestartAll
+Reboot sensor three,RestartN
+Restart device one,RestartN
+fetch me data of sensor 1,DataN
+get me past data for sensor three,DataN
+show the data for device two,DataN
+Show data for all the devices,DataAll
+fetch the information for all sensors,DataAll
+
