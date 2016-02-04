@@ -4,27 +4,115 @@ are all sensors running,StatusAll
 are all sensors closed,StatusAll
 are all devices running,StatusAll
 are all devices closed,StatusAll
+fetch me status of all Devices,StatusAll
+fetch me status of all Sensors,StatusAll
+what is the status of devicetype MQTTdevices,StatusAll
 Tell me Status of Sensor one,StatusN
 Tell me Status of sensor 2,StatusN
+tell me status of device three,StatusN
+tell me status of device four,StatusN
+tell me status of device five,StatusN
+tell me status of device six,StatusN
+tell me status of device seven,StatusN
+tell me status of device eight,StatusN
+tell me status of device nine,StatusN
+tell me status of sensor three,StatusN
+tell me status of sensor four,StatusN
+tell me status of sensor five,StatusN
+tell me status of sensor six,StatusN
+tell me status of sensor seven,StatusN
+tell me status of sensor eight,StatusN
+tell me status of sensor nine,StatusN
+fetch me status of device two,StatusN
+fetch me status of device three,StatusN
+fetch me status of device six,StatusN
+fetch me status of device seven,StatusN
+fetch me status of device eight,StatusN
+get me status of device nine,StatusN
+get me status of sensor nine,StatusN
+get me status of device seven,StatusN
+get me status of sensor seven,StatusN
+is device four okay,StatusN
+is device three okay,StatusN
+is device two okay,StatusN
 How is sensor five doing,StatusN
 fetch me status of device four,StatusN
 fetch me state of device one,StatusN
 is device one running,StatusN
 what is the status of sensors,StatusAll
-what is the status of devicetype MQTTdevices,StatusAll
 Shut down device one,StopN
-stop sensor 2,StopN
+Shut down device two,StopN
+Shut down device three,StopN
+Shut down device four,StopN
+Shut down device five,StopN
+Shut down device six,StopN
+stop sensor two,StopN
+stop sensor three,StopN
+stop sensor four,StopN
+stop sensor five,StopN
+stop sensor six,StopN
+stop device two,StopN
+stop device three,StopN
+stop device four,StopN
+stop device five,StopN
+stop device six,StopN
 close device five,StopN
+close device six,StopN
+close device seven,StopN
+close sensor five,StopN
+close sensor six,StopN
+close sensor seven,StopN
 shut down sensor three,StopN
-end all devices,Stopall
+shut down sensor four,StopN
+shut down sensor five,StopN
+shut down sensor six,StopN
+shut down sensor seven,StopN
+shut all sensors, StopAll
+shut all devices, StopAll
+close all sensors, StopAll
+close all devices, StopAll
+end all sensors,StopAll
+end all devices,StopAll
 Restart all devices,ResartAll
 Reboot all sensors,RestartAll
 Restart every device,RestartAll
+reset  device six,RestartN
+reset  device two,RestartN
+reset  device seven,RestartN
+reset  sensor six,RestartN
+reset  sensor one,RestartN
+reset  sensor two,RestartN
+Reboot sensor seven,RestartN
+Reboot device seven,RestartN
 Reboot sensor three,RestartN
 Restart device one,RestartN
-fetch me data of sensor 1,DataN
+Restart device two,RestartN
+Restart device three,RestartN
+Restart device four,RestartN
+Restart device five,RestartN
+Restart sensor one,RestartN
+Restart sensor two,RestartN
+Restart sensor three,RestartN
+Restart sensor four,RestartN
+Restart sensor five,RestartN
+fetch me data of sensor one,DataN
 get me past data for sensor three,DataN
 show the data for device two,DataN
+fetch the information for sensor one,DataN
+fetch the information for sensor two,DataN
+fetch the information for sensor three,DataN
+fetch the information for sensor four,DataN
+fetch the information for device one,DataN
+fetch the information for device two,DataN
+fetch the information for device three,DataN
+fetch the information for device four,DataN
 Show data for all the devices,DataAll
+Show data for every device,DataAll
+Show data for every sensor,DataAll
+get data for every device,DataAll
+tell data for each sensor,DataAll
+Show data for all the sensors,DataAll
 fetch the information for all sensors,DataAll
+
+
 
