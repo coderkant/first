@@ -7,6 +7,7 @@ are all devices closed,StatusAll
 fetch me status of all Devices,StatusAll
 fetch me status of all Sensors,StatusAll
 what is the status of devicetype MQTTdevices,StatusAll
+what is the status of sensors,StatusAll
 Tell me Status of Sensor one,StatusN
 Tell me Status of sensor 2,StatusN
 tell me status of device three,StatusN
@@ -39,7 +40,6 @@ How is sensor five doing,StatusN
 fetch me status of device four,StatusN
 fetch me state of device one,StatusN
 is device one running,StatusN
-what is the status of sensors,StatusAll
 Shut down device one,StopN
 Shut down device two,StopN
 Shut down device three,StopN
@@ -73,7 +73,7 @@ close all sensors, StopAll
 close all devices, StopAll
 end all sensors,StopAll
 end all devices,StopAll
-Restart all devices,ResartAll
+Restart all devices,RestartAll
 Reboot all sensors,RestartAll
 Restart every device,RestartAll
 reset  device six,RestartN
