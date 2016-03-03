@@ -113,3 +113,33 @@ get data for every device,DataAll
 tell data for each sensor,DataAll
 Show data for all the sensors,DataAll
 fetch the information for all sensors,DataAll
+fetch me a empty space,FindSpot
+get me a empty space,FindSpot
+get me a empty lot,FindSpot
+fetch me a empty lot,FindSpot
+get me a empty parking space,FindSpot
+fetch me a empty parking space,FindSpot
+fetch me a empty space,FindSpot
+get me a vacant space,FindSpot
+get me a vacant lot,FindSpot
+fetch me a vacant lot,FindSpot
+get me a vacant parking space,FindSpot
+fetch me a vacant parking space,FindSpot
+where can i park my car,FindSpot
+is there a parking available,FindSpot
+is there a empty lot for my car,FindSpot
+show me a spot to park my car,FindSpot
+is there a parking lot available,FindSpot
+is there any parking space left,LotStatus
+how many parkings are occupied,LotStatus
+how many lots are occupied,LotStatus
+how many spots are occupied,LotStatus
+how many lots are occupied in the parking,LotStatus
+how many spots are occupied in the parking,LotStatus
+are all lots full,LotStatus
+are all spots full,LotStatus
+is the parking full,LotStatus
+are all lots vacant,LotStatus
+are all spots vacant,LotStatus
+is the parking empty,LotStatus
+will i be able to park my car,LotStatus
