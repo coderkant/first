@@ -1,0 +1,12 @@
+img #banner {
+    
+      background-image:  url("main.jpg"), url("../backdrop.jpg");
+    
+    }
+    
+    
+    ul {
+    
+      list-style: square url(http://example.com/listitem.png);
+    
+    }
